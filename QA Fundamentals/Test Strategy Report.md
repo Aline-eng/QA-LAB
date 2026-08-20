@@ -1,5 +1,7 @@
 # Test Strategy Report
+
 ### E-Commerce Website Platform
+
 **Version 1.0**
 
 **Prepared by:** Aline NZIKWINKUNDA
@@ -252,4 +254,3 @@ Defects will be prioritized by severity, with payment and checkout defects treat
 - Test execution logs and defect reports
 - Test Summary Report, including pass/fail counts and outstanding defects at release time
 - Sign-off documentation for User Acceptance Testing
-
